@@ -23,11 +23,10 @@ The goal is to transform raw transactional data into actionable insights that su
 
 ## 🛠️ Tools & Technologies
 - **Python:** Data Cleaning, EDA, Feature Engineering
-- **SQL (PostgreSQL/MySQL/SQL Server):** Business Analysis Queries
+- **SQL (MySQL/SQL Server):** Business Analysis Queries
 - **Power BI:** Dashboard Development
-- **Gamma:** Presentation Creation
-- **Python Libraries:** pandas, numpy, matplotlib
-- **Other Tools:** Git, Jupyter Notebook
+- **Python Libraries:** pandas
+- **Other Tools:** Jupyter Notebook
 
 ---
 
@@ -54,18 +53,7 @@ The goal is to transform raw transactional data into actionable insights that su
   - Revenue contribution by age group
 - Designed interactive **Power BI dashboard** for stakeholders.
 - Delivered business-driven recommendations based on analysis.
-
----
-
-## ⚙️ Project Workflow
-1. Loaded raw dataset using Python.
-2. Conducted initial exploration using info() and descriptive statistics.
-3. Cleaned data and handled missing values.
-4. Performed feature engineering and transformation.
-5. Loaded cleaned dataset into SQL database.
-6. Executed SQL queries for business insights.
-7. Built Power BI dashboard with KPIs and interactive visuals.
-8. Created presentation and business report using Gamma.
+- Created presentation and business report.
 
 ---
 
@@ -81,16 +69,7 @@ The goal is to transform raw transactional data into actionable insights that su
 
 ## 🖼️ Dashboard Screenshots
 
-### 📍 Overview Dashboard
-![Dashboard Overview](](images/dashboard_overview.png)
-
-### 📍 Customer Insights Dashboard
-![Customer Insights](images/customer_insights.png)
-
-### 📍 Product Performance Dashboard
-![Product Performance](images/product_performance.png)
-
-> ⚠️ Place your screenshots inside a folder named **images** in your GitHub repository and replace file names accordingly.
+![Dashboard Overview](]([images/dashboard_overview.png](https://github.com/saksham-deep/Consumer-Shopping-Behavior-Analysis/blob/main/Snapshot-Customer-Behavior.png))
 
 ---
 
