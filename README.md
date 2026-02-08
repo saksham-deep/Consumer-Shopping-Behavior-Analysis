@@ -69,7 +69,7 @@ The goal is to transform raw transactional data into actionable insights that su
 
 ## 🖼️ Dashboard Screenshots
 
-![Dashboard Overview](]([images/dashboard_overview.png](https://github.com/saksham-deep/Consumer-Shopping-Behavior-Analysis/blob/main/Snapshot-Customer-Behavior.png))
+![Dashboard Overview](https://github.com/saksham-deep/Consumer-Shopping-Behavior-Analysis/blob/main/Snapshot-Customer-Behavior.png)
 
 ---
 
